@@ -53,5 +53,5 @@ jobs:
               cd ~/senpro/479811/modul02/senpro-github-action;
               git restore .;
               git pull origin main;
-          
+            }
 
